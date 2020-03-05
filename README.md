@@ -13,6 +13,14 @@ Description :
 In this project I did the whole process of installing an information system in the caterin facility (restaurant), strategy, mission,
 project price,project managment etc...
 
+Programs used in this project: 
+
+- VISUAL PARADIGM (for diagrams)
+
+- PENCIL (for UI)
+
+- MICROSOFT VISIO 
+
 Caption:
 
 - PROJECT MANAGMENT (basic project information, resource, task, ganthogram etc)
@@ -35,6 +43,8 @@ Caption:
 - INFORMATION SYSTEM ARCHITECTURE MODEL
 
 - NETWORK ARCHITECTURE MODEL
+
+- USER INTERFACE PROTOTYPE
 
 
 
