@@ -1,5 +1,3 @@
-# Razvoj-informacionih-sistema
-/-------------------------------------/
 Fakultet informacionih tehnologija 
 Subject  : Razvoj informacionih sitema
 /-------------------------------------/
@@ -25,11 +23,11 @@ Caption:
 - DEFINING THE REQUIREMENTS (bussines requirements, technical requirements etc..)
 
 - DIAGRAMS : 
-             - organization diagrams, 
-             - hierarchical process diagram, 
-             - context diagram , 
-             - logical model of the process
-              -physical model of the process
+ - organization diagrams, 
+- hierarchical process diagram, 
+- context diagram , 
+- logical model of the process
+-physical model of the process
 
 - DATABASE SCHEME
 
@@ -37,7 +35,7 @@ Caption:
 
 - NETWORK ARCHITECTURE MODEL
 
-/--------------------------------------/
+
 
 
 
