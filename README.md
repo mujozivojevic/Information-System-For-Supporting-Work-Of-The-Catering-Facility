@@ -9,7 +9,9 @@ Tema seminarskog rada: INFORMACIJSKI SISTEM ZA PODRŠKU RADA UGOSTITELJSKOG OBJE
 Topic : INFORMATION SYSTEM FOR SUPPORTING WORK OF THE CATERING FACILITY
 
 /--------------------------------------------------------------------------------------------------------------------------/
+
 Description : 
+
 In this project I did the whole process of installing an information system in the caterin facility (restaurant), strategy, mission,
 project price,project managment etc...
 
