@@ -1,6 +1,7 @@
 Fakultet informacionih tehnologija 
 
 Subject  : Razvoj informacionih sitema
+
 /-------------------------------------/
 
 Tema seminarskog rada: INFORMACIJSKI SISTEM ZA PODRŠKU RADA UGOSTITELJSKOG OBJEKTA
